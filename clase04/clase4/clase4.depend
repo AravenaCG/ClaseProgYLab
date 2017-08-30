@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504109797 source:c:\users\alejandra\desktop\progylab\clase04\clase4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1504109931 c:\users\alejandra\desktop\progylab\clase04\clase4\utn.h
+
